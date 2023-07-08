@@ -183,7 +183,7 @@ questions:
                   type: path
                   hidden: true
                   editable: true
-                  default: "/media"
+                  default: "/download"
               - variable: hostPathEnabled
                 label: "Enable Custom Host Path for Jellyfin Server Media Volume"
                 schema:
