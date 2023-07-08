@@ -186,7 +186,7 @@ questions:
                   type: path
                   hidden: true
                   editable: true
-                  default: "/data"
+                  default: "/download"
               - variable: hostPathEnabled
                 label: "Enable Custom Host Path for NAS-Tools Media Volume"
                 schema:
